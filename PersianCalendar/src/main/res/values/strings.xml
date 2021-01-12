@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">تقویم ۱۴۰۰</string>
+    <string name="cancel">Cancel</string>
+    <string name="widget_name">Persian Calendar</string>
+    <string name="widget_mini_name">Persian Calendar (mini)</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="enable_persian_digits">Enable Persian Digits</string>
+    <string name="persian_digits">Persian Digits</string>
+    <string name="showing_clock_on_widget">Show the clock on widget</string>
+    <string name="clock_on_widget">Clock on the Widget</string>
+    <string name="showing_clock_in_24">Show the clock in 24 hour</string>
+    <string name="clock_in_24">Clock in 24 hour</string>
+    <string name="about">About</string>
+    <string name="gpl_logo">GPL Logo</string>
+    <string name="widget_text_colors">Widget Text Colors</string>
+    <string name="clock">Clock</string>
+    <string name="date">Date</string>
+    <string name="date_converter">Date Converter</string>
+    <string name="logo">Logo</string>
+    <string name="widget_notification_dashclock">Widget, notification bar and DashClock</string>
+    <string name="general">General</string>
+    <string name="widget_text_color">Widget Text Color</string>
+    <string name="select_widgets_text_color">Select custom color for widgets texts</string>
+    <string name="pray_times_calculation_setting">Pray Times Calculation Setting</string>
+    <string name="notify_date">Enable Date Notification</string>
+    <string name="enable_notify">Persistent notification for all date types</string>
+    <string name="select_skin">Select a skin</string>
+    <string name="skin">Skin</string>
+    <string name="pray_methods">Calculation methods</string>
+    <string name="pray_methods_calculation">Calculation methods for pray times and Qibla compass</string>
+    <string name="altitude">Altitude</string>
+    <string name="altitude_praytime">in meter (optional)</string>
+    <string name="gps_location">Get location from GPS or network</string>
+    <string name="gps_location_help">Other options are not needed if this is possible</string>
+    <string name="location">Location</string>
+    <string name="location_help">If none of them, specify it below</string>
+    <string name="showing_iran_time">Widgets and notifications in Iran TimeZone</string>
+    <string name="iran_time">Iran Time</string>
+    <string name="qibla_compass">Compass/Qibla</string>
+    <string name="compass">Compass</string>
+    <string name="compass_not_found">Compass sensor not found</string>
+    <string name="month_names">Month Names</string>
+    <string name="calendar_font">Calendar Font</string>
+    <string name="application_language">Application Language</string>
+    <string name="language">Language</string>
+    <string name="calendar_language">Calendar Language</string>
+    <string name="calendar_language_summary">The language to show the month and day names in</string>
+    <string name="version">Version</string>
+    <string name="calendar_font_summary">Change the font for the calendar</string>
+    <string name="athan">Athan</string>
+    <string name="athan_alarm_summary">Prayers to trigger the alarm for</string>
+    <string name="athan_alarm">Athan Alarm</string>
+    <string name="athan_sound">Athan Sound</string>
+    <string name="match_system">Match System</string>
+    <string name="athan_volume_summary">Set the volume for the alarm</string>
+    <string name="athan_volume">Athan Volume</string>
+    <string name="tap_to_stop_athan">Tap to stop</string>
+    <string name="playing_athan">Playing Athan</string>
+    <string name="athan_disabled_summary">To set the Athan alarm, choose a location or enter the coordinates above</string>
+    <string name="athan_gap">Athan Gap</string>
+    <string name="athan_gap_summary">How long ahead of the Athan should the alarm be triggered (in minutes)</string>
+    <string name="closeDrawer">Close</string>
+    <string name="openDrawer">Open</string>
+    <string name="imsak">Imsak</string>
+    <string name="azan1">Fajr</string>
+    <string name="azan2">Dhuhr</string>
+    <string name="azan3">Asr</string>
+    <string name="azan4">Maghrib</string>
+    <string name="azan5">Isha</string>
+    <string name="aftab1">Sunrise</string>
+    <string name="aftab2">Sunset</string>
+    <string name="aftab3">Midnight</string>
+    <string name="owghat">Pray times</string>
+    <string name="events">Events</string>
+    <string name="events_summary">Events to show</string>
+    <string name="today">Today</string>
+    <string name="select_type_date">Select date type</string>
+    <string name="year">Year</string>
+    <string name="mount">Month</string>
+    <string name="day">Day</string>
+    <string name="select_year">Select year</string>
+    <string name="select_mount">Select month</string>
+    <string name="select_day">Select day</string>
+    <string name="date_exception">The date you entered was not valid!</string>
+    <string name="in_city_time">in</string>
+    <string name="islamic_offset">Islamic offset</string>
+    <string name="islamic_offset_summary">Adjust Islamic calendar by adding a number</string>
+    <string name="date_copied_clipboard">Copied to clipboard</string>
+    <string name="stop">Stop</string>
+    <string name="goto_date">Go to date</string>
+    <string name="select">Select</string>
+    <string name="go">Go</string>
+    <string name="pleasewaitgps">Please wait… If nothing appeared after one minute you probably should try other options</string>
+    <string name="shouldBeUpdated"></string>
+    <string name="notify_date_lock_screen">Show notification on the lock screen</string>
+    <string name="notify_date_lock_screen_summary">Only when a lock screen security method is set.</string>
+    <string name="user_interface">User interface</string>
+    <string name="warn_if_events_not_set">To select and show holidays and events you like, go to the preferences</string>
+    <string name="date_diff_text">%s day (~%s year and %s month and %s day)</string>
+    <string name="search_holidays">Search in events</string>
+    <string name="main_calendar">Main Calendar</string>
+    <string name="main_calendar_summary">Change main calendar of the app</string>
+    <string name="week_of_year">Week of Year</string>
+    <string name="week_of_year_summary">Show week of year on calendar</string>
+    <string name="accept">OK</string>
+    <string name="calendar">Calendar</string>
+    <string name="week_start">Week Start</string>
+    <string name="week_start_summary">Select week start day</string>
+    <string name="week_ends">Weekends</string>
+    <string name="week_ends_summary">Select weekends days</string>
+    <string name="search_in_events">Search in events</string>
+    <string name="show_device_calendar_events_summary">Show personal calendar events</string>
+    <string name="show_device_calendar_events">Personal Calendar Events</string>
+    <string name="add_event">Add event</string>
+    <string name="device_calendar_does_not_support">Device calendar does not support the action</string>
+    <string name="compact_widget_summary">What to show from notification and widges to make them more compact</string>
+    <string name="compact_widget">Widget Customization</string>
+    <string name="add">Add</string>
+    <string name="which_one_to_show">Which one to show</string>
+    <string name="notification_athan">Athan Notification</string>
+    <string name="enable_notification_athan">Show Athan as a notification and device vibration</string>
+    <string name="returned_to_default">Returned to default</string>
+    <string name="custom_notification_is_set">Custom notification is just set</string>
+    <string name="custom_athan_summary">Select custom sound for Athan</string>
+    <string name="custom_athan">Select Athan</string>
+    <string name="default_athan_summary">Return to default Athan</string>
+    <string name="default_athan">Default Athan</string>
+    <string name="default_athan_name">Abdul-Basit Abdel-Samad</string>
+
+
+    <string name="quickstart_message">Click the SUBSCRIBE TO WEATHER button below to subscribe to the
+        weather topic. Messages sent to the weather topic will be received. The LOG TOKEN button logs the
+        InstanceID token to logcat.</string>
+    <string name="subscribe_to_weather">Subscribe To Weather</string>
+    <string name="log_token">Log Token</string>
+
+    <string name="msg_subscribed">Subscribed to weather topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <string name="default_notification_channel_name" translatable="true">Weather</string>
+    <string name="msg_subscribe_failed">Failed to subscribe to weather topic</string>
+    <string name="fcm_message">FCM Message</string>
+</resources>
